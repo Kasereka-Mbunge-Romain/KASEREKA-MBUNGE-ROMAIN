@@ -24,6 +24,6 @@ Node.js
 MongoDB
 
 🚀 Je travaille sur ces projets :
+
 Portfolio - Un site de portfolio personnel pour présenter mes compétences et mes projets.
-Todo App - Une application de tâches simple et élégante avec React et TailwindCSS.
-Blog - Un blog sur lequel je partage mes réflexions et mes expériences sur le développement et la conception Web.
+
