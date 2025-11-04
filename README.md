@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Kasereka-Mbunge-Romain/KASEREKA-MBUNGE-ROMAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on JE travaille sur une automatisation de cheque scolaire
-- 🌱 I’m currently learning j'eprend qctuellement en coder avec PHP
-- 👯 I’m looking to collaborate on JE cherche a collaborer avec tout le monde
-- 🤔 I’m looking for help with je cherche l'aide pour approndir dans le domaine de la programation
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Salut, je m'appelle ROMAIN 👋
+Je suis un développeur et concepteur Web qui aime créer des sites Web beaux et fonctionnels. J'ai une passion pour l'apprentissage de nouvelles technologies et l'exploration de nouvelles idées.
+🌎 Je viens de Pékin, en Chine
+📫 Vous pouvez me joindre à alice@example.com
+🛠️ J'utilise ces technologies :
+HTML
+CSS
+JavaScript
+React
+TailwindCSS
+Node.js
+MongoDB
+🚀 Je travaille sur ces projets :
+Portfolio - Un site de portfolio personnel pour présenter mes compétences et mes projets.
+Todo App - Une application de tâches simple et élégante avec React et TailwindCSS.
+Blog - Un blog sur lequel je partage mes réflexions et mes expériences sur le développement et la conception Web.
