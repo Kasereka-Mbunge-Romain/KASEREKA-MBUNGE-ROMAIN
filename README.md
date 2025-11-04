@@ -8,13 +8,21 @@ J'ai une passion pour l'apprentissage de nouvelles technologies et l'exploration
 📫 Vous pouvez me joindre à romainmbunge@gmail.com
 
 🛠️ J'utilise ces technologies :
+
 HTML
+
 CSS
+
 JavaScript
+
 React
+
 TailwindCSS
+
 Node.js
+
 MongoDB
+
 🚀 Je travaille sur ces projets :
 Portfolio - Un site de portfolio personnel pour présenter mes compétences et mes projets.
 Todo App - Une application de tâches simple et élégante avec React et TailwindCSS.
