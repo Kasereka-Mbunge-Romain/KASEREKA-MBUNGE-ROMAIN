@@ -1,7 +1,9 @@
 Salut, je m'appelle ROMAIN 👋
 
-🔥🔥Je suis un développeur et concepteur Web qui aime créer des sites Web beaux et fonctionnels. 🔥🔥🔥🔥🔥
-🔥🔥J'ai une passion pour l'apprentissage de nouvelles technologies et l'exploration de nouvelles idées.🔥🔥🔥🔥
+🔥🔥Je suis un développeur et concepteur Web qui aime créer des sites Web beaux et fonctionnels. 🔥🔥
+🔥🔥🔥
+🔥🔥
+J'ai une passion pour l'apprentissage de nouvelles technologies et l'exploration de nouvelles idées.🔥🔥🔥🔥
 
 🌎 Je viens de la republique democratique du congo, en Butembo 🔥
 
