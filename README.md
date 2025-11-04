@@ -7,7 +7,7 @@ J'ai une passion pour l'apprentissage de nouvelles technologies et l'exploration
 
 📫 Vous pouvez me joindre à romainmbunge@gmail.com
 
-🛠️ J'utilise ces technologies :
+J'utilise ces technologies :
 
 HTML
 
