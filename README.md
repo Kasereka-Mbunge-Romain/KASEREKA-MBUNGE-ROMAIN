@@ -1,4 +1,4 @@
-Salut, je m'appelle ROMAIN 👋
+Salut, je m'appelle ROMAIN 
 
 🔥🔥Je suis un développeur et concepteur Web qui aime créer des sites Web beaux et fonctionnels. 🔥🔥
 
@@ -26,5 +26,5 @@ MongoDB
 
 💼Je travaille sur ces projets :
 
-🔥🔥Portfolio - Un site de portfolio personnel pour présenter mes compétences et mes projets.🔥🔥🔥
+🔥🔥Portfolio - Un site de portfolio personnel pour présenter mes compétences et mes projets.🔥🔥
 
